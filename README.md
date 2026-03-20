@@ -1,2 +1,3 @@
-# pro-blockchain-dapp-qdcm
-A blockchain decentralized application for modern development workflows
+# Pro Blockchain Dapp Qdcm
+
+A blockchain decentralized application for modern development workflows.
